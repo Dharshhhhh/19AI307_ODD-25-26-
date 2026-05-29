@@ -2,7 +2,7 @@
 
 ## QUESTION:
 
-![alt text](image.png)
+<img width="643" height="355" alt="image" src="https://github.com/user-attachments/assets/0d4c7604-9a2d-46ca-997c-5430a4c094e1" />
 
 ## AIM:
 
@@ -52,8 +52,8 @@ public class Main
 
 
 ## OUTPUT:
+<img width="477" height="152" alt="image" src="https://github.com/user-attachments/assets/92f7083a-4373-4517-ad6b-968c9ccc2ec3" />
 
-![alt text](image-1.png)
 
 ## RESULT:
 
