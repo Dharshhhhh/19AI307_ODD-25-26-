@@ -25,8 +25,8 @@ To write a Java program that reads the number of terms from the user and display
 ## PROGRAM:
  ```
 Program to implement a Looping Statement using Java
-Developed by: NARENDHIRAN P
-RegisterNumber: 212224230177
+Developed by: DHARSHINI R
+RegisterNumber: 212224220023
 ```
 
 ## SOURCE CODE:
