@@ -28,8 +28,8 @@ To Write a Java program to simulate this elevator logic for a given floor number
 ## PROGRAM:
  ```
 Program to implement a conditional statement using Java
-Developed by: NARENDHIRAN P
-RegisterNumber:  212224230177
+Developed by: DHARSHINI R
+RegisterNumber:  212224220023
 ```
 
 ## SOURCE CODE:
