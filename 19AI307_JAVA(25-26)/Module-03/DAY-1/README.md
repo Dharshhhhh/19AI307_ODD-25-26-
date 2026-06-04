@@ -1,8 +1,8 @@
 # Ex. No:3(A) INHERITANCE AND AGGREGATION
 
 ## QUESTION:
+<img width="1205" height="258" alt="image" src="https://github.com/user-attachments/assets/01dd2b83-6c30-4bc8-9735-dce1440ebddd" />
 
-![alt text](<image (8).png>)
 ## AIM:
 
 To create a superclass Vehicle with fields brand and speed, and a subclass Car that inherits from Vehicle and adds the field fuelType, then develop a Java program that takes user input using Scanner, creates a Car object, and displays the vehicle details using the displayInfo() method.
@@ -71,8 +71,8 @@ public class main
 
 
 ## OUTPUT:
+<img width="781" height="369" alt="image" src="https://github.com/user-attachments/assets/25bbd502-7534-48b8-802f-bfca5d7ce560" />
 
-![alt text](<image-1 (8).png>)
 ## RESULT:
 
 Thus, the java program to create a superclass Vehicle with fields brand and speed, and a subclass Car that inherits from Vehicle and adds the field fuelType, then develop a Java program that takes user input using Scanner, creates a Car object, and displays the vehicle details using the displayInfo() method has been executed successfully.
