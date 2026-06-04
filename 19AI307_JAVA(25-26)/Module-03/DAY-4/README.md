@@ -80,7 +80,8 @@ public class main
 
 
 ## OUTPUT:
-<img width="1133" height="452" alt="image" src="https://github.com/user-attachments/assets/c2c7081c-a90b-40e8-92cc-e92a475158fa" />
+<img width="368" height="151" alt="image" src="https://github.com/user-attachments/assets/e95f47f5-8d8a-4d5b-ae60-5ef580c77285" />
+
 
 
 
